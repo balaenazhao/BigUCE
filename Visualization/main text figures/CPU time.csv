@@ -1,0 +1,18 @@
+﻿Tree,Dataset,tree search,bootstraps,total CPU time
+1_OptimalTrees,run4_optimal,5151.1,,5151.4
+2_BootstrapTrees,run5_bootstraps,5151.1,2754.1,8482.3
+3_OptimalTrees+FamilyBackbone4v1,run6_optimal_FamilyBackbone,5151.1,,5151.3
+4_OptimalTrees+FamBackbone2v1,run8,5151.1,,5151.3
+5_OptimalTrees+GenusBackbone4v1,run7_optimal_GenusBackbone,5151.1,,5151.3
+6_OptimalTrees+GenusBackbone2v1,run9,5151.1,,5151.4
+7_full_RAxML,RAxML-NG,427934.5,322641.5,750575.9
+8_full_IQ-TREE,full iq-tree,492.8,,2158.7
+9_Filter: indv_0_sites_50_loci_70,indv_0_sites_50_loci_70,96.6,,638.8
+10_Filter: indv_25_sites_90_loci_70,indv_25_sites_90_loci_70,6.7,,62.2
+11_Filter: indv_50_sites_90_loci_90,indv_50_sites_90_loci_90,3.5,,45.1
+12_Filter: indv_50_sites_50_loci_50,indv_50_sites_50_loci_50,135.4,,798.9
+13_Filter: indv_50_sites_50_loci_70,indv_50_sites_50_loci_70,93.2,,496.8
+14_Filter: indv_0_sites_90_loci_50,indv_0_sites_90_loci_50,58.7,,492
+15_PublishedTrees+Jetz+BigBird+Familybackbone,run2_Jetz_BigBird_Familybackbone,8.8,,8.8
+16_PublishedTrees+Jetz+BigBird+Genusbackbone,run3_Jetz_BigBird_Genusbackbone,9.3,,9.3
+17_PublishedTrees+Jetz+BigBird,run1-Jetz-Bigbird,7.3,,7.4
