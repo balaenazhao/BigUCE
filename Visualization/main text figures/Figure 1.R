@@ -61,7 +61,7 @@ colnames(mono)[1] <- "monophyly"
 col_mono<- c("#4682b4ff","#b22222ff","#D7D7D7")
 breaks_mono<- c("mono","non-mono","monotypic")
 
-pdf(file="R_plot_output.pdf",width=10, height=10)
+pdf(file="R_plot_fig1.pdf",width=10, height=10)
 
 gheatmap(p, mono, offset=0.005,width=0.05, colnames = FALSE) +
   scale_color_manual(values = col_mono, breaks = breaks_mono) +
