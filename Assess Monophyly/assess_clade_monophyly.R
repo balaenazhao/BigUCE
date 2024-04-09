@@ -20,7 +20,7 @@ sink("Genus_output.txt",append=T)
 for (i in trees) {
   directory<- paste(folder, "/", i, sep = "")
   phy<- read.tree(directory)
-  tree<- drop.tip(phy,tip=outgroup,trim.internal=TRUE) ### read in tree and drop outgroup
+  tree<- drop.tip(phy,tip=outgroup,trim.internal=TRUE) # read in tree and drop outgroup
   
   ### matche the tip names on the tree
   ### extra names are taxa that are in the main table but not in the tree
@@ -28,9 +28,9 @@ for (i in trees) {
   extra_names <- taxonomy[is.na(match(as.character(taxonomy$Tip_Name),tree$tip.label)),]
   taxonomy <- taxonomy[!is.na(match(as.character(taxonomy$Tip_Name),tree$tip.label)),]
   
-  ### select the taxonomic level: Order, Family, Genus, or level0-7
+  ### select the taxonomic level: Order, Family, Genus, or level0 - level7
   ### here tested on Genus level
-  Genus <- as.data.frame(taxonomy[,c(2, grep("Genus", colnames(taxonomy)))]) ### 2 is the column number of "Tip_Name"; might need to change if formatted differently
+  Genus <- as.data.frame(taxonomy[,c(2, grep("Genus", colnames(taxonomy)))]) # 2 is the column number of "Tip_Name"; might need to change if formatted differently
   test_Genus <- AssessMonophyly(tree, Genus)
   
   ### print out results depending on needs
