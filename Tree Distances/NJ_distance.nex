@@ -1,0 +1,8 @@
+#NEXUS
+
+begin paup;
+execute Robinson_Foulds_distances.nex;
+nj;
+savetree file=NJsearch.tre brlen=yes;
+
+end;
