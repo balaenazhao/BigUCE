@@ -9,7 +9,7 @@ matrix<- xtabs(nRF ~ source + reference, data=data)
 
 dist<- as.dist(matrix)
 
-write.nexus.dist(dist, file = "Robinson Foulds distances.nex", append = FALSE, upper = FALSE,
+write.nexus.dist(dist, file = "Robinson_Foulds_distances.nex", append = FALSE, upper = FALSE,
                  diag = TRUE, digits = getOption("digits"), taxa = TRUE)
 
 #### estimate NJ tree using PAUP* on cluster ###
