@@ -21,19 +21,19 @@ sed -i 's/$/ --unrooted --taboutput/g' pairs.txt #replace the tail of each line
 ######## calculate RF distance using ete3 ########
 ######## some examples below ########
 module load ete3
-ete3 compare -r full-raxml-itol-export_2759.tre -t full.concatenated.IQTREE_rooted.tre --taboutput
-ete3 compare -r full-raxml-itol-export_2759.tre -t indv_0_sites_50_loci_70_rooted.tre --taboutput
-ete3 compare -r full-raxml-itol-export_2759.tre -t indv_0_sites_90_loci_50_rooted.tre --taboutput
-ete3 compare -r full-raxml-itol-export_2759.tre -t indv_25_sites_90_loci_70_rooted.tre --taboutput
-ete3 compare -r full-raxml-itol-export_2759.tre -t indv_50_sites_50_loci_50_rooted.tre --taboutput
-ete3 compare -r full-raxml-itol-export_2759.tre -t indv_50_sites_50_loci_70_rooted.tre --taboutput
-ete3 compare -r full-raxml-itol-export_2759.tre -t indv_50_sites_90_loci_90_rooted.tre --taboutput
-ete3 compare -r full-raxml-itol-export_2759.tre -t run1_Jetz_Bigbird.rooted.tre --taboutput
-ete3 compare -r full-raxml-itol-export_2759.tre -t run2_Jetz_BigBird_Familybackbone.rooted.tre --taboutput
-ete3 compare -r full-raxml-itol-export_2759.tre -t run3_Jetz_BigBird_Genusbackbone.rooted.tre --taboutput
-ete3 compare -r full-raxml-itol-export_2759.tre -t run4_optimal_NoBackbone_rooted.tre --taboutput
-ete3 compare -r full-raxml-itol-export_2759.tre -t run5_bootstrap_NoBackbone_rooted.tre --taboutput
-ete3 compare -r full-raxml-itol-export_2759.tre -t run6_optimal_FamilyBackbone_rooted.tre --taboutput
-ete3 compare -r full-raxml-itol-export_2759.tre -t run7_optimal_GenusBackbone_rooted.tre --taboutput
-ete3 compare -r full-raxml-itol-export_2759.tre -t run8_FamBackbone2v1_rooted.tre --taboutput
-ete3 compare -r full-raxml-itol-export_2759.tre -t run9_GenusBackbone2v1_rooted.tre --taboutput
+ete3 compare -r full-raxml-itol-export_rooted.tre -t full.concatenated.IQTREE_rooted.tre --taboutput
+ete3 compare -r full-raxml-itol-export_rooted.tre -t indv_0_sites_50_loci_70_rooted.tre --taboutput
+ete3 compare -r full-raxml-itol-export_rooted.tre -t indv_0_sites_90_loci_50_rooted.tre --taboutput
+ete3 compare -r full-raxml-itol-export_rooted.tre -t indv_25_sites_90_loci_70_rooted.tre --taboutput
+ete3 compare -r full-raxml-itol-export_rooted.tre -t indv_50_sites_50_loci_50_rooted.tre --taboutput
+ete3 compare -r full-raxml-itol-export_rooted.tre -t indv_50_sites_50_loci_70_rooted.tre --taboutput
+ete3 compare -r full-raxml-itol-export_rooted.tre -t indv_50_sites_90_loci_90_rooted.tre --taboutput
+ete3 compare -r full-raxml-itol-export_rooted.tre -t run1_Jetz_Bigbird.rooted.tre --taboutput
+ete3 compare -r full-raxml-itol-export_rooted.tre -t run2_Jetz_BigBird_Familybackbone.rooted.tre --taboutput
+ete3 compare -r full-raxml-itol-export_rooted.tre -t run3_Jetz_BigBird_Genusbackbone.rooted.tre --taboutput
+ete3 compare -r full-raxml-itol-export_rooted.tre -t run4_optimal_NoBackbone_rooted.tre --taboutput
+ete3 compare -r full-raxml-itol-export_rooted.tre -t run5_bootstrap_NoBackbone_rooted.tre --taboutput
+ete3 compare -r full-raxml-itol-export_rooted.tre -t run6_optimal_FamilyBackbone_rooted.tre --taboutput
+ete3 compare -r full-raxml-itol-export_rooted.tre -t run7_optimal_GenusBackbone_rooted.tre --taboutput
+ete3 compare -r full-raxml-itol-export_rooted.tre -t run8_FamBackbone2v1_rooted.tre --taboutput
+ete3 compare -r full-raxml-itol-export_rooted.tre -t run9_GenusBackbone2v1_rooted.tre --taboutput
