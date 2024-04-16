@@ -3,6 +3,10 @@
 Code used in the study 
 > Building large-scale phylogenies using independent datasets: a draft Avian Tree of Life
 
+## **Authors**
+- Min Zhao
+- Gregory Thom
+
 ## **Assess Clade Monophyly**
 We evaluated clade monophyly for pre-defined groups (e.g., superordinal clades, orders, families and genera) using the AssessMonophyly function in R package **MonoPhy** (Schwery and O’Meara 2016). Tutorial of MonoPhy can be found at https://rdrr.io/cran/MonoPhy/man/AssessMonophyly.html. We generally assumed that a tree estimation method was more reliable when it recovered a larger number of these groups as monophyletic.
 
