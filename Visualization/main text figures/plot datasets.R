@@ -5,7 +5,6 @@ library(dplyr)
 library(ComplexHeatmap)
 library(ggpubr)
 
-setwd("/Users/balaena/Downloads/postdoc/BigUCE/summary_statistics/")
 
 ########## plot basic stats for datasets ###############
 
@@ -27,8 +26,8 @@ dev.off()
 pdf(file = "heatmap_nocluster.pdf", width = 6, height = 10) 
 Heatmap(stats_scale, cluster_rows = FALSE, col = col_fun)
 dev.off()
-###############################################################
 
+###############################################################
 
 
 
@@ -123,15 +122,3 @@ y<- ggarrange(genus_gap, highlevel_gap,allclade_gaps,
 pdf(file = "gap_jitter.pdf", width = 11, height = 3.3) 
 y
 dev.off()
-
-###############################################################
-
-
-############# get best tree for each dataset ###############
-data<- read_excel("syst_trees_clade_recovery_summary.xlsx",sheet="fasttree")
-
-result <- data %>%
-  group_by(dataset) %>%
-  slice(which.min(sum))
-
-write.csv(result,"results.csv")
