@@ -2,15 +2,14 @@ library(ape)
 library(MonoPhy)
 
 ####### read and prune outgroup; tested on a single tree first #######
-phy <- read.tree("x_rooted.tre")
-is.rooted(phy)
+phy <- read.tree("x.tre")
 outgroup<- c("OUTGROUP_Alligatoridae_Alligator_mississippiensis","OUTGROUP_Gavialidae_Gavialis_gangeticus")
-tree<- drop.tip(phy,tip=outgroup,trim.internal=TRUE)
+tree <- root(phy, outgroup = outgroup, resolve.root = TRUE)  # root at outgroup
 is.rooted(tree)
 
 ####### create a list for all the target rooted trees #######
 folder <- c(".")
-trees <- list.files(folder, full.names = F, pattern = "rooted.tre")
+trees <- list.files(folder, full.names = F, pattern = ".tre")
 
 ####### test monophyly for the genus level ####### 
 ####### iterate through all the trees ####### 
@@ -20,7 +19,7 @@ sink("Genus_output.txt",append=T)
 for (i in trees) {
   directory<- paste(folder, "/", i, sep = "")
   phy<- read.tree(directory)
-  tree<- drop.tip(phy,tip=outgroup,trim.internal=TRUE) # read in tree and drop outgroup
+  tree <- root(phy, outgroup = outgroup, resolve.root = TRUE)
   
   ### matche the tip names on the tree
   ### extra names are taxa that are in the main table but not in the tree
@@ -37,10 +36,10 @@ for (i in trees) {
   print(i)
   print(GetSummaryMonophyly(test_Genus))
   #print(GetResultMonophyly(test_Genus))
-  #print("intruders")
-  #print(GetIntruderTips(test_Genus))
-  #print("outliers")
-  #print(GetOutlierTips(test_Genus))
+  print("intruders")
+  print(GetIntruderTips(test_Genus))
+  print("outliers")
+  print(GetOutlierTips(test_Genus))
 }
 
 sink()
