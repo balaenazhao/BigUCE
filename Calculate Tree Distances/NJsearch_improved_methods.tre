@@ -1,0 +1,31 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Tue Nov 19 22:03:19 2024]
+[!
+>Data file = RF_matrix_improved_methods_V2.nex
+>Neighbor-joining search settings:
+>  Ties (if encountered) will be broken systematically
+>  Distance measure = user-input
+>  (Tree is unrooted)
+]
+	Translate
+		1 01_F70_i0s50l70_parsC,
+		2 02_G50_i0s50l50_parsB,
+		3 11_F90_i50s90l90_parsC,
+		4 12_F70_i50s90l70_parsD,
+		5 17_F50_i25s90l50_parsC,
+		6 C12_MP_supertree,
+		7 C14_MP_supertree,
+		8 C18_MP_supertree,
+		9 D8_MP_supertree,
+		10 D9_MP_supertree,
+		11 full_raxml,
+		12 fulldata_parsD,
+		13 S11_MP_supertree,
+		14 S13_MP_supertree,
+		15 S16_MP_supertree,
+		16 S19_MP_supertree,
+		17 S9_MP_supertree
+		;
+tree 'PAUP_1' = [&U] (1:0,(2:0.011299,((((3:0.078520,5:0.040130):0.008458,4:0.034176):0.019160,((13:0.003352,14:0.001558):0.005934,(15:0.003554,(16:0.001152,17:0.009597):0.001171):0.001319):0.032555):0.002817,(((((6:0.003148,7:0.001581):0.001511,8:0.002663):0.002757,10:0.004812):0.002186,9:0.006605):0.006819,(11:0.002780,12:0.005928):0.006090):0.005508):0.004551):0.017003);
+End;

@@ -1,0 +1,272 @@
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/02_G50_i0s50l50_parsB_rooted.tre	(..)/01_F70_i0s50l70_parsCstart_rooted.tre	2758	0.02830188679245283	156.0	5512.0	0.9716981132075472	0.9716981132075472	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/11_F90_i50s90l90_parsC_rooted.tre	(..)/01_F70_i0s50l70_parsCstart_rooted.tre	2758	0.12735849056603774	702.0	5512.0	0.8726415094339622	0.8726415094339622	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/12_F70_i50s90l70_parsDstart_rooted.tre	(..)/01_F70_i0s50l70_parsCstart_rooted.tre	2758	0.06966618287373004	384.0	5512.0	0.93033381712627	0.93033381712627	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/17_F50_i25s90l50_parsC_rooted.tre	(..)/01_F70_i0s50l70_parsCstart_rooted.tre	2758	0.08345428156748912	460.0	5512.0	0.9165457184325109	0.9165457184325109	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/C12_MP_supertree_rooted.tre	(..)/01_F70_i0s50l70_parsCstart_rooted.tre	2758	0.04616503089785533	254.0	5502.0	0.9555717407137655	0.9521044992743106	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/C14_MP_supertree_rooted.tre	(..)/01_F70_i0s50l70_parsCstart_rooted.tre	2758	0.043952052306574646	242.0	5506.0	0.9570909090909091	0.9550072568940493	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/C18_MP_supertree_rooted.tre	(..)/01_F70_i0s50l70_parsCstart_rooted.tre	2758	0.04426705370101597	244.0	5512.0	0.9557329462989841	0.9557329462989841	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/D8_MP_supertree_rooted.tre	(..)/01_F70_i0s50l70_parsCstart_rooted.tre	2758	0.040543019629425796	221.0	5451.0	0.9703153988868275	0.9488388969521045	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/D9_MP_supertree_trimmed_rooted.tre	(..)/01_F70_i0s50l70_parsCstart_rooted.tre	2758	0.04441601169804423	243.0	5471.0	0.9627992633517496	0.9484760522496372	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S11_MP_supertree_rooted.tre	(..)/01_F70_i0s50l70_parsCstart_rooted.tre	2758	0.06850808649827367	377.0	5503.0	0.9330178376410629	0.9299709724238027	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S13_MP_supertree_rooted.tre	(..)/01_F70_i0s50l70_parsCstart_rooted.tre	2758	0.06608569353667393	364.0	5508.0	0.934593023255814	0.9332365747460087	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S16_MP_supertree_rooted.tre	(..)/01_F70_i0s50l70_parsCstart_rooted.tre	2758	0.06245461147421932	344.0	5508.0	0.9382267441860465	0.9368650217706821	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S19_MP_supertree_trimmed_rooted.tre	(..)/01_F70_i0s50l70_parsCstart_rooted.tre	2758	0.06286337209302326	346.0	5504.0	0.9385007278020379	0.9357764876632801	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S9_MP_supertree_rooted.tre	(..)/01_F70_i0s50l70_parsCstart_rooted.tre	2758	0.07040203747498636	387.0	5497.0	0.9321415541773076	0.9270682148040639	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/full-raxml-itol-export_2758_reconciled.tre	(..)/01_F70_i0s50l70_parsCstart_rooted.tre	2758	0.03664731494920174	202.0	5512.0	0.9633526850507983	0.9633526850507983	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/fulldata_parsD_rooted.tre	(..)/01_F70_i0s50l70_parsCstart_rooted.tre	2758	0.038824383164005806	214.0	5512.0	0.9611756168359942	0.9611756168359942	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/11_F90_i50s90l90_parsC_rooted.tre	(..)/02_G50_i0s50l50_parsB_rooted.tre	2758	0.12445573294629898	686.0	5512.0	0.875544267053701	0.875544267053701	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/12_F70_i50s90l70_parsDstart_rooted.tre	(..)/02_G50_i0s50l50_parsB_rooted.tre	2758	0.07148040638606676	394.0	5512.0	0.9285195936139332	0.9285195936139332	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/17_F50_i25s90l50_parsC_rooted.tre	(..)/02_G50_i0s50l50_parsB_rooted.tre	2758	0.08708272859216255	480.0	5512.0	0.9129172714078374	0.9129172714078374	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/C12_MP_supertree_rooted.tre	(..)/02_G50_i0s50l50_parsB_rooted.tre	2758	0.04143947655398037	228.0	5502.0	0.9603058994901675	0.956821480406386	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/C14_MP_supertree_rooted.tre	(..)/02_G50_i0s50l50_parsB_rooted.tre	2758	0.03922993098438068	216.0	5506.0	0.9618181818181818	0.9597242380261248	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/C18_MP_supertree_rooted.tre	(..)/02_G50_i0s50l50_parsB_rooted.tre	2758	0.03701015965166909	204.0	5512.0	0.9629898403483309	0.9629898403483309	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/D8_MP_supertree_rooted.tre	(..)/02_G50_i0s50l50_parsB_rooted.tre	2758	0.024032287653641533	131.0	5451.0	0.987012987012987	0.965166908563135	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/D9_MP_supertree_trimmed_rooted.tre	(..)/02_G50_i0s50l50_parsB_rooted.tre	2758	0.03527691464083348	193.0	5471.0	0.9720073664825046	0.9575471698113207	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S11_MP_supertree_rooted.tre	(..)/02_G50_i0s50l50_parsB_rooted.tre	2758	0.06523714337634018	359.0	5503.0	0.9362941390607936	0.9332365747460087	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S13_MP_supertree_rooted.tre	(..)/02_G50_i0s50l50_parsB_rooted.tre	2758	0.06245461147421932	344.0	5508.0	0.9382267441860465	0.9368650217706821	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S16_MP_supertree_rooted.tre	(..)/02_G50_i0s50l50_parsB_rooted.tre	2758	0.05337690631808279	294.0	5508.0	0.9473110465116279	0.9459361393323658	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S19_MP_supertree_trimmed_rooted.tre	(..)/02_G50_i0s50l50_parsB_rooted.tre	2758	0.05813953488372093	320.0	5504.0	0.9432314410480349	0.9404934687953556	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S9_MP_supertree_rooted.tre	(..)/02_G50_i0s50l50_parsB_rooted.tre	2758	0.06603601964708022	363.0	5497.0	0.9365195184239329	0.931422351233672	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/full-raxml-itol-export_2758_reconciled.tre	(..)/02_G50_i0s50l50_parsB_rooted.tre	2758	0.027213352685050797	150.0	5512.0	0.9727866473149492	0.9727866473149492	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/fulldata_parsD_rooted.tre	(..)/02_G50_i0s50l50_parsB_rooted.tre	2758	0.027576197387518143	152.0	5512.0	0.9724238026124818	0.9724238026124818	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/12_F70_i50s90l70_parsDstart_rooted.tre	(..)/11_F90_i50s90l90_parsC_rooted.tre	2758	0.1113933236574746	614.0	5512.0	0.8886066763425254	0.8886066763425254	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/17_F50_i25s90l50_parsC_rooted.tre	(..)/11_F90_i50s90l90_parsC_rooted.tre	2758	0.11865021770682148	654.0	5512.0	0.8813497822931785	0.8813497822931785	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/C12_MP_supertree_rooted.tre	(..)/11_F90_i50s90l90_parsC_rooted.tre	2758	0.13376953834969102	736.0	5502.0	0.8678077203204662	0.8646589259796807	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/C14_MP_supertree_rooted.tre	(..)/11_F90_i50s90l90_parsC_rooted.tre	2758	0.13294587722484563	732.0	5506.0	0.868	0.8661103047895501	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/C18_MP_supertree_rooted.tre	(..)/11_F90_i50s90l90_parsC_rooted.tre	2758	0.1320754716981132	728.0	5512.0	0.8679245283018868	0.8679245283018868	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/D8_MP_supertree_rooted.tre	(..)/11_F90_i50s90l90_parsC_rooted.tre	2758	0.12749954136855624	695.0	5451.0	0.8823747680890538	0.862844702467344	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/D9_MP_supertree_trimmed_rooted.tre	(..)/11_F90_i50s90l90_parsC_rooted.tre	2758	0.1295923962712484	709.0	5471.0	0.8769797421731124	0.863933236574746	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S11_MP_supertree_rooted.tre	(..)/11_F90_i50s90l90_parsC_rooted.tre	2758	0.14846447392331455	817.0	5503.0	0.8529304696032035	0.8501451378809869	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S13_MP_supertree_rooted.tre	(..)/11_F90_i50s90l90_parsC_rooted.tre	2758	0.14778503994190267	814.0	5508.0	0.8528343023255814	0.8515965166908563	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S16_MP_supertree_rooted.tre	(..)/11_F90_i50s90l90_parsC_rooted.tre	2758	0.1437908496732026	792.0	5508.0	0.8568313953488372	0.8555878084179971	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S19_MP_supertree_trimmed_rooted.tre	(..)/11_F90_i50s90l90_parsC_rooted.tre	2758	0.14244186046511628	784.0	5504.0	0.858806404657933	0.8563134978229318	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S9_MP_supertree_rooted.tre	(..)/11_F90_i50s90l90_parsC_rooted.tre	2758	0.15008186283427324	825.0	5497.0	0.8522437066763955	0.8476052249637155	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/full-raxml-itol-export_2758_reconciled.tre	(..)/11_F90_i50s90l90_parsC_rooted.tre	2758	0.12409288824383163	684.0	5512.0	0.8759071117561683	0.8759071117561683	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/fulldata_parsD_rooted.tre	(..)/11_F90_i50s90l90_parsC_rooted.tre	2758	0.12663280116110304	698.0	5512.0	0.8733671988388969	0.8733671988388969	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/17_F50_i25s90l50_parsC_rooted.tre	(..)/12_F70_i50s90l70_parsDstart_rooted.tre	2758	0.09252539912917271	510.0	5512.0	0.9074746008708273	0.9074746008708273	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/C12_MP_supertree_rooted.tre	(..)/12_F70_i50s90l70_parsDstart_rooted.tre	2758	0.07960741548527808	438.0	5502.0	0.922068463219228	0.918722786647315	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/C14_MP_supertree_rooted.tre	(..)/12_F70_i50s90l70_parsDstart_rooted.tre	2758	0.07845986196876135	432.0	5506.0	0.9225454545454546	0.9205370101596516	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/C18_MP_supertree_rooted.tre	(..)/12_F70_i50s90l70_parsDstart_rooted.tre	2758	0.07547169811320754	416.0	5512.0	0.9245283018867925	0.9245283018867925	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/D8_MP_supertree_rooted.tre	(..)/12_F70_i50s90l70_parsDstart_rooted.tre	2758	0.07539900935608146	411.0	5451.0	0.935064935064935	0.9143686502177069	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/D9_MP_supertree_trimmed_rooted.tre	(..)/12_F70_i50s90l70_parsDstart_rooted.tre	2758	0.07366112228111862	403.0	5471.0	0.9333333333333333	0.9194484760522497	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S11_MP_supertree_rooted.tre	(..)/12_F70_i50s90l70_parsDstart_rooted.tre	2758	0.09649282209703798	531.0	5503.0	0.9049872588278122	0.9020319303338171	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S13_MP_supertree_rooted.tre	(..)/12_F70_i50s90l70_parsDstart_rooted.tre	2758	0.09658678286129267	532.0	5508.0	0.9040697674418605	0.9027576197387518	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S16_MP_supertree_rooted.tre	(..)/12_F70_i50s90l70_parsDstart_rooted.tre	2758	0.09368191721132897	516.0	5508.0	0.9069767441860465	0.9056603773584906	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S19_MP_supertree_trimmed_rooted.tre	(..)/12_F70_i50s90l70_parsDstart_rooted.tre	2758	0.09084302325581395	500.0	5504.0	0.9104803493449781	0.9078374455732946	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S9_MP_supertree_rooted.tre	(..)/12_F70_i50s90l70_parsDstart_rooted.tre	2758	0.09950882299436056	547.0	5497.0	0.9029551258664721	0.8980406386066764	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/full-raxml-itol-export_2758_reconciled.tre	(..)/12_F70_i50s90l70_parsDstart_rooted.tre	2758	0.07002902757619739	386.0	5512.0	0.9299709724238027	0.9299709724238027	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/fulldata_parsD_rooted.tre	(..)/12_F70_i50s90l70_parsDstart_rooted.tre	2758	0.07111756168359942	392.0	5512.0	0.9288824383164006	0.9288824383164006	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/C12_MP_supertree_rooted.tre	(..)/17_F50_i25s90l50_parsC_rooted.tre	2758	0.09014903671392221	496.0	5502.0	0.9115076474872542	0.908200290275762	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/C14_MP_supertree_rooted.tre	(..)/17_F50_i25s90l50_parsC_rooted.tre	2758	0.08972030512168544	494.0	5506.0	0.9112727272727272	0.909288824383164	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/C18_MP_supertree_rooted.tre	(..)/17_F50_i25s90l50_parsC_rooted.tre	2758	0.09325108853410741	514.0	5512.0	0.9067489114658926	0.9067489114658926	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/D8_MP_supertree_rooted.tre	(..)/17_F50_i25s90l50_parsC_rooted.tre	2758	0.09117593102183086	497.0	5451.0	0.9191094619666048	0.898766328011611	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/D9_MP_supertree_trimmed_rooted.tre	(..)/17_F50_i25s90l50_parsC_rooted.tre	2758	0.09340157192469384	511.0	5471.0	0.9134438305709024	0.8998548621190131	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S11_MP_supertree_rooted.tre	(..)/17_F50_i25s90l50_parsC_rooted.tre	2758	0.1055787752135199	581.0	5503.0	0.8958864215507827	0.8929608127721336	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S13_MP_supertree_rooted.tre	(..)/17_F50_i25s90l50_parsC_rooted.tre	2758	0.1056644880174292	582.0	5508.0	0.8949854651162791	0.8936865021770682	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S16_MP_supertree_rooted.tre	(..)/17_F50_i25s90l50_parsC_rooted.tre	2758	0.10275962236746551	566.0	5508.0	0.8978924418604651	0.8965892597968069	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S19_MP_supertree_trimmed_rooted.tre	(..)/17_F50_i25s90l50_parsC_rooted.tre	2758	0.10247093023255814	564.0	5504.0	0.8988355167394468	0.8962264150943396	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S9_MP_supertree_rooted.tre	(..)/17_F50_i25s90l50_parsC_rooted.tre	2758	0.1104238675641259	607.0	5497.0	0.8920102152499088	0.887155297532656	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/full-raxml-itol-export_2758_reconciled.tre	(..)/17_F50_i25s90l50_parsC_rooted.tre	2758	0.08817126269956459	486.0	5512.0	0.9118287373004355	0.9118287373004355	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/fulldata_parsD_rooted.tre	(..)/17_F50_i25s90l50_parsC_rooted.tre	2758	0.09071117561683599	500.0	5512.0	0.909288824383164	0.909288824383164	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/C14_MP_supertree_rooted.tre	(..)/C12_MP_supertree_rooted.tre	2760	0.004728992360858494	26.0	5498.0	0.9945474372955289	0.995995631598107	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/C18_MP_supertree_rooted.tre	(..)/C12_MP_supertree_rooted.tre	2760	0.007630813953488372	42.0	5504.0	0.99056945955749	0.9941754641427011	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/D8_MP_supertree_rooted.tre	(..)/C12_MP_supertree_rooted.tre	2758	0.017827605219628746	97.0	5441.0	0.9914656771799629	0.9730517115804806	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/D9_MP_supertree_trimmed_rooted.tre	(..)/C12_MP_supertree_rooted.tre	2758	0.013733748397729353	75.0	5461.0	0.9918968692449356	0.9806991988346686	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S11_MP_supertree_rooted.tre	(..)/C12_MP_supertree_rooted.tre	2758	0.062079009648643727	341.0	5493.0	0.9377502730251183	0.9380917698470502	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S13_MP_supertree_rooted.tre	(..)/C12_MP_supertree_rooted.tre	2758	0.059658057475445614	328.0	5498.0	0.9393168604651163	0.9413692643845594	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S16_MP_supertree_rooted.tre	(..)/C12_MP_supertree_rooted.tre	2758	0.0607493634048745	334.0	5498.0	0.9382267441860465	0.9402767662053897	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S19_MP_supertree_trimmed_rooted.tre	(..)/C12_MP_supertree_rooted.tre	2758	0.058245358572988716	320.0	5494.0	0.9414119359534207	0.9420975965040058	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S9_MP_supertree_rooted.tre	(..)/C12_MP_supertree_rooted.tre	2758	0.0668853654091489	367.0	5487.0	0.9339657059467348	0.9322651128914785	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/full-raxml-itol-export_2758_reconciled.tre	(..)/C12_MP_supertree_rooted.tre	2758	0.027626317702653582	152.0	5502.0	0.9706095791001451	0.9741442097596504	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/fulldata_parsD_rooted.tre	(..)/C12_MP_supertree_rooted.tre	2758	0.030534351145038167	168.0	5502.0	0.9677068214804064	0.9712308812818645	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/C18_MP_supertree_rooted.tre	(..)/C14_MP_supertree_rooted.tre	2760	0.0054466230936819175	30.0	5508.0	0.9934711643090316	0.9956379498364231	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/D8_MP_supertree_rooted.tre	(..)/C14_MP_supertree_rooted.tre	2758	0.015610651974288337	85.0	5445.0	0.9944341372912802	0.9745454545454545	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/D9_MP_supertree_trimmed_rooted.tre	(..)/C14_MP_supertree_rooted.tre	2758	0.011893870082342177	65.0	5465.0	0.994475138121547	0.9818181818181818	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S11_MP_supertree_rooted.tre	(..)/C14_MP_supertree_rooted.tre	2758	0.06094233218118974	335.0	5497.0	0.9395704404805242	0.9385454545454546	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S13_MP_supertree_rooted.tre	(..)/C14_MP_supertree_rooted.tre	2758	0.05816066884769175	320.0	5502.0	0.9414970930232558	0.9421818181818182	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S16_MP_supertree_rooted.tre	(..)/C14_MP_supertree_rooted.tre	2758	0.05925118138858597	326.0	5502.0	0.940406976744186	0.9410909090909091	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S19_MP_supertree_trimmed_rooted.tre	(..)/C14_MP_supertree_rooted.tre	2758	0.05674790833030193	312.0	5498.0	0.9435953420669578	0.9429090909090909	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S9_MP_supertree_rooted.tre	(..)/C14_MP_supertree_rooted.tre	2758	0.0657439446366782	361.0	5491.0	0.935789857716162	0.9327272727272727	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/full-raxml-itol-export_2758_reconciled.tre	(..)/C14_MP_supertree_rooted.tre	2758	0.02579004722121322	142.0	5506.0	0.9731494920174165	0.9752727272727273	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/fulldata_parsD_rooted.tre	(..)/C14_MP_supertree_rooted.tre	2758	0.02869596803487105	158.0	5506.0	0.9702467343976778	0.9723636363636363	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/D8_MP_supertree_rooted.tre	(..)/C18_MP_supertree_rooted.tre	2758	0.013392038158136122	73.0	5451.0	0.997773654916512	0.9756894049346879	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/D9_MP_supertree_trimmed_rooted.tre	(..)/C18_MP_supertree_rooted.tre	2758	0.007494059586912813	41.0	5471.0	1.0	0.9851233671988389	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S11_MP_supertree_rooted.tre	(..)/C18_MP_supertree_rooted.tre	2758	0.0634199527530438	349.0	5503.0	0.9381143065161995	0.9350507982583455	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S13_MP_supertree_rooted.tre	(..)/C18_MP_supertree_rooted.tre	2758	0.06100217864923747	336.0	5508.0	0.9396802325581395	0.9383164005805515	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S16_MP_supertree_rooted.tre	(..)/C18_MP_supertree_rooted.tre	2758	0.06172839506172839	340.0	5508.0	0.938953488372093	0.9375907111756169	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S19_MP_supertree_trimmed_rooted.tre	(..)/C18_MP_supertree_rooted.tre	2758	0.058502906976744186	322.0	5504.0	0.9428675400291121	0.9401306240928883	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S9_MP_supertree_rooted.tre	(..)/C18_MP_supertree_rooted.tre	2758	0.06749135892304893	371.0	5497.0	0.935060197008391	0.9299709724238027	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/full-raxml-itol-export_2758_reconciled.tre	(..)/C18_MP_supertree_rooted.tre	2758	0.021407837445573296	118.0	5512.0	0.9785921625544267	0.9785921625544267	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/fulldata_parsD_rooted.tre	(..)/C18_MP_supertree_rooted.tre	2758	0.024310595065312045	134.0	5512.0	0.9756894049346879	0.9756894049346879	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/D9_MP_supertree_trimmed_rooted.tre	(..)/D8_MP_supertree_rooted.tre	2758	0.011829944547134935	64.0	5410.0	0.9845303867403314	0.9918367346938776	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S11_MP_supertree_rooted.tre	(..)/D8_MP_supertree_rooted.tre	2758	0.06247703050349136	340.0	5442.0	0.9286494357480888	0.9465677179962895	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S13_MP_supertree_rooted.tre	(..)/D8_MP_supertree_rooted.tre	2758	0.060033045713236644	327.0	5447.0	0.9302325581395349	0.9499072356215214	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S16_MP_supertree_rooted.tre	(..)/D8_MP_supertree_rooted.tre	2758	0.05929869653020011	323.0	5447.0	0.9309593023255814	0.9506493506493506	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S19_MP_supertree_trimmed_rooted.tre	(..)/D8_MP_supertree_rooted.tre	2758	0.06007716332904648	327.0	5443.0	0.9308588064046579	0.9491651205936921	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S9_MP_supertree_rooted.tre	(..)/D8_MP_supertree_rooted.tre	2758	0.06806475349521707	370.0	5436.0	0.9241152863918278	0.9398886827458256	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/full-raxml-itol-export_2758_reconciled.tre	(..)/D8_MP_supertree_rooted.tre	2758	0.026967528893780957	147.0	5451.0	0.9622641509433962	0.9840445269016698	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/fulldata_parsD_rooted.tre	(..)/D8_MP_supertree_rooted.tre	2758	0.028802054668868097	157.0	5451.0	0.9604499274310595	0.9821892393320965	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S11_MP_supertree_rooted.tre	(..)/D9_MP_supertree_trimmed_rooted.tre	2758	0.06444525814719883	352.0	5462.0	0.9301055697124135	0.9410681399631676	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S13_MP_supertree_rooted.tre	(..)/D9_MP_supertree_trimmed_rooted.tre	2758	0.06274007682458387	343.0	5467.0	0.9309593023255814	0.943646408839779	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S16_MP_supertree_rooted.tre	(..)/D9_MP_supertree_trimmed_rooted.tre	2758	0.06310590817633072	345.0	5467.0	0.9305959302325582	0.9432780847145488	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S19_MP_supertree_trimmed_rooted.tre	(..)/D9_MP_supertree_trimmed_rooted.tre	2758	0.059491122094087495	325.0	5463.0	0.9348617176128093	0.9462246777163904	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S9_MP_supertree_rooted.tre	(..)/D9_MP_supertree_trimmed_rooted.tre	2758	0.06854838709677419	374.0	5456.0	0.9270339292229114	0.9359116022099447	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/full-raxml-itol-export_2758_reconciled.tre	(..)/D9_MP_supertree_trimmed_rooted.tre	2758	0.01919210382014257	105.0	5471.0	0.9735123367198839	0.9882136279926336	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/fulldata_parsD_rooted.tre	(..)/D9_MP_supertree_trimmed_rooted.tre	2758	0.01699872052641199	93.0	5471.0	0.9756894049346879	0.9904235727440147	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S13_MP_supertree_rooted.tre	(..)/S11_MP_supertree_rooted.tre	2758	0.004909983633387889	27.0	5499.0	0.9941860465116279	0.995995631598107	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S16_MP_supertree_rooted.tre	(..)/S11_MP_supertree_rooted.tre	2758	0.013638843426077468	75.0	5499.0	0.9854651162790697	0.9872588278121587	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S19_MP_supertree_trimmed_rooted.tre	(..)/S11_MP_supertree_rooted.tre	2758	0.013284804367606916	73.0	5495.0	0.9865356622998545	0.9868947943210775	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S9_MP_supertree_rooted.tre	(..)/S11_MP_supertree_rooted.tre	2758	0.021865889212827987	120.0	5488.0	0.9792046698285297	0.9770658900618857	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/full-raxml-itol-export_2758_reconciled.tre	(..)/S11_MP_supertree_rooted.tre	2758	0.060149009631110306	331.0	5503.0	0.9383164005805515	0.9413906079359301	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/fulldata_parsD_rooted.tre	(..)/S11_MP_supertree_rooted.tre	2758	0.06632745775031801	365.0	5503.0	0.9321480406386067	0.93520203858755	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S16_MP_supertree_rooted.tre	(..)/S13_MP_supertree_rooted.tre	2758	0.01126453488372093	62.0	5504.0	0.9887354651162791	0.9887354651162791	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S19_MP_supertree_trimmed_rooted.tre	(..)/S13_MP_supertree_rooted.tre	2758	0.011636363636363636	64.0	5500.0	0.9890829694323144	0.9876453488372093	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S9_MP_supertree_rooted.tre	(..)/S13_MP_supertree_rooted.tre	2758	0.019843437101765882	109.0	5493.0	0.9821233126596133	0.9781976744186046	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/full-raxml-itol-export_2758_reconciled.tre	(..)/S13_MP_supertree_rooted.tre	2758	0.058460421205519246	322.0	5508.0	0.940856313497823	0.9422238372093024	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/fulldata_parsD_rooted.tre	(..)/S13_MP_supertree_rooted.tre	2758	0.06463326071169208	356.0	5508.0	0.9346879535558781	0.936046511627907	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S19_MP_supertree_trimmed_rooted.tre	(..)/S16_MP_supertree_rooted.tre	2758	0.005818181818181818	32.0	5500.0	0.99490538573508	0.9934593023255814	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S9_MP_supertree_rooted.tre	(..)/S16_MP_supertree_rooted.tre	2758	0.014381940651738576	79.0	5493.0	0.9875957679678949	0.9836482558139535	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/full-raxml-itol-export_2758_reconciled.tre	(..)/S16_MP_supertree_rooted.tre	2758	0.05337690631808279	294.0	5508.0	0.9459361393323658	0.9473110465116279	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/fulldata_parsD_rooted.tre	(..)/S16_MP_supertree_rooted.tre	2758	0.05954974582425563	328.0	5508.0	0.9397677793904209	0.9411337209302325	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/S9_MP_supertree_rooted.tre	(..)/S19_MP_supertree_trimmed_rooted.tre	2758	0.010748770267808344	59.0	5489.0	0.9905144107989785	0.9879912663755459	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/full-raxml-itol-export_2758_reconciled.tre	(..)/S19_MP_supertree_trimmed_rooted.tre	2758	0.0501453488372093	276.0	5504.0	0.9484760522496372	0.9512372634643377	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/fulldata_parsD_rooted.tre	(..)/S19_MP_supertree_trimmed_rooted.tre	2758	0.0559593023255814	308.0	5504.0	0.9426705370101597	0.9454148471615721	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/full-raxml-itol-export_2758_reconciled.tre	(..)/S9_MP_supertree_rooted.tre	2758	0.05912315808622885	325.0	5497.0	0.9383164005805515	0.9434512951477563	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/fulldata_parsD_rooted.tre	(..)/S9_MP_supertree_rooted.tre	2758	0.06494451519010369	357.0	5497.0	0.9325108853410741	0.9376140094855892	1	NA
+# source	ref	E.size	nRF	RF	maxRF	src-branches	ref-branches	subtrees	treekoD
+(..)/fulldata_parsD_rooted.tre	(..)/full-raxml-itol-export_2758_reconciled.tre	2758	0.008708272859216255	48.0	5512.0	0.9912917271407837	0.9912917271407837	1	NA

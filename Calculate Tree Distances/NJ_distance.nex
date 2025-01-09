@@ -1,0 +1,7 @@
+#NEXUS
+
+begin paup;
+execute RF_matrix_improved_methods_V2.nex;
+nj;
+savetree file=NJsearch_improved_methods.tre brlen=yes;
+end;
