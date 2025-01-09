@@ -13,5 +13,8 @@ We evaluated clade monophyly for pre-defined groups (e.g., superordinal clades, 
 ## **Calculate Tree Distances**
 We used the **ete3** toolkit (Huerta-Cepas et al. 2016) to calculate pairwise normalized Robinson Foulds distances between our trees. Tutorial for ete3 can be found at http://etetoolkit.org/documentation/ete-compare/. Pairwise tree distances were then transformed to a NEXUS distance block using the write.nexus.dist function in **phangorn** (Schliep 2011). With this data block, we used __PAUP*__ 4 (Swofford and Sullivan 2009) to infer a neighbor joining (NJ) “tree-of-trees” to show distribution of trees in tree space.
 
+## **Divergence Time Estimation**
+We used penalized likelihood to estimate divergence time for seven trees in **TreePL** (Smith and O'Meara 2012). We applied a total of 43 fossil calibrations. Individual configuration file and parameter settings can be found in this folder.
+
 ## **Visualization**
 This folder contains the R scripts and associated data that were used to plot the figures in the main text and supplementary information. PDF outputs from R were modified using **Inkscape**, a free vector graphics editor (https://inkscape.org/).
