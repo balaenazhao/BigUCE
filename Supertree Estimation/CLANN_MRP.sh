@@ -34,4 +34,4 @@ sed '/NEXUS/d' ratchblock_35upweight.ratchblock >> coding_upweight35.nex
 ### run paup
 ### convert truncated tip labels back to species names using "convert_name_back.sh"
 ### remove the ' before and after the tip label
-### prune tree using "remove_tips.R"
+### prune tree using "remove_tips.R" if for supertree analysis; not needed for divide-and-conquer analysis
