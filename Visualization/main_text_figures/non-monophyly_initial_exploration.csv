@@ -1,0 +1,69 @@
+﻿Tree,clade,number,dataset
+2_BootstrapTrees,Genus,55,BootstrapTrees
+8_full_IQ-TREE,Genus,38,full_IQ-TREE
+7_full_RAxML,Genus,38,full_RAxML
+9_Filter: indv_0_sites_50_loci_70,Genus,39,indv_0_sites_50_loci_70
+14_Filter: indv_0_sites_90_loci_50,Genus,37,indv_0_sites_90_loci_50
+10_Filter: indv_25_sites_90_loci_70,Genus,46,indv_25_sites_90_loci_70
+12_Filter: indv_50_sites_50_loci_50,Genus,41,indv_50_sites_50_loci_50
+13_Filter: indv_50_sites_50_loci_70,Genus,42,indv_50_sites_50_loci_70
+11_Filter: indv_50_sites_90_loci_90,Genus,41,indv_50_sites_90_loci_90
+1_OptimalTrees,Genus,60,OptimalTrees
+4_OptimalTrees+FamBackbone2v1,Genus,52,OptimalTrees+FamBackbone2v1
+3_OptimalTrees+FamilyBackbone4v1,Genus,52,OptimalTrees+FamilyBackbone4v1
+6_OptimalTrees+GenusBackbone2v1,Genus,38,OptimalTrees+GenusBackbone2v1
+5_OptimalTrees+GenusBackbone4v1,Genus,38,OptimalTrees+GenusBackbone4v1
+17_PublishedTrees+Jetz+BigBird,Genus,48,PublishedTrees+Jetz+BigBird
+15_PublishedTrees+Jetz+BigBird+Familybackbone,Genus,36,PublishedTrees+Jetz+BigBird+Familybackbone
+16_PublishedTrees+Jetz+BigBird+Genusbackbone,Genus,34,PublishedTrees+Jetz+BigBird+Genusbackbone
+2_BootstrapTrees,family,11,BootstrapTrees
+8_full_IQ-TREE,family,2,full_IQ-TREE
+7_full_RAxML,family,2,full_RAxML
+9_Filter: indv_0_sites_50_loci_70,family,2,indv_0_sites_50_loci_70
+14_Filter: indv_0_sites_90_loci_50,family,1,indv_0_sites_90_loci_50
+10_Filter: indv_25_sites_90_loci_70,family,2,indv_25_sites_90_loci_70
+12_Filter: indv_50_sites_50_loci_50,family,2,indv_50_sites_50_loci_50
+13_Filter: indv_50_sites_50_loci_70,family,2,indv_50_sites_50_loci_70
+11_Filter: indv_50_sites_90_loci_90,family,3,indv_50_sites_90_loci_90
+1_OptimalTrees,family,8,OptimalTrees
+4_OptimalTrees+FamBackbone2v1,family,2,OptimalTrees+FamBackbone2v1
+3_OptimalTrees+FamilyBackbone4v1,family,2,OptimalTrees+FamilyBackbone4v1
+6_OptimalTrees+GenusBackbone2v1,family,2,OptimalTrees+GenusBackbone2v1
+5_OptimalTrees+GenusBackbone4v1,family,2,OptimalTrees+GenusBackbone4v1
+17_PublishedTrees+Jetz+BigBird,family,16,PublishedTrees+Jetz+BigBird
+15_PublishedTrees+Jetz+BigBird+Familybackbone,family,3,PublishedTrees+Jetz+BigBird+Familybackbone
+16_PublishedTrees+Jetz+BigBird+Genusbackbone,family,4,PublishedTrees+Jetz+BigBird+Genusbackbone
+2_BootstrapTrees,order,0,BootstrapTrees
+8_full_IQ-TREE,order,0,full_IQ-TREE
+7_full_RAxML,order,0,full_RAxML
+9_Filter: indv_0_sites_50_loci_70,order,0,indv_0_sites_50_loci_70
+14_Filter: indv_0_sites_90_loci_50,order,1,indv_0_sites_90_loci_50
+10_Filter: indv_25_sites_90_loci_70,order,0,indv_25_sites_90_loci_70
+12_Filter: indv_50_sites_50_loci_50,order,0,indv_50_sites_50_loci_50
+13_Filter: indv_50_sites_50_loci_70,order,0,indv_50_sites_50_loci_70
+11_Filter: indv_50_sites_90_loci_90,order,0,indv_50_sites_90_loci_90
+1_OptimalTrees,order,0,OptimalTrees
+4_OptimalTrees+FamBackbone2v1,order,0,OptimalTrees+FamBackbone2v1
+3_OptimalTrees+FamilyBackbone4v1,order,0,OptimalTrees+FamilyBackbone4v1
+6_OptimalTrees+GenusBackbone2v1,order,0,OptimalTrees+GenusBackbone2v1
+5_OptimalTrees+GenusBackbone4v1,order,0,OptimalTrees+GenusBackbone4v1
+17_PublishedTrees+Jetz+BigBird,order,7,PublishedTrees+Jetz+BigBird
+15_PublishedTrees+Jetz+BigBird+Familybackbone,order,0,PublishedTrees+Jetz+BigBird+Familybackbone
+16_PublishedTrees+Jetz+BigBird+Genusbackbone,order,1,PublishedTrees+Jetz+BigBird+Genusbackbone
+2_BootstrapTrees,Highlevel,1,BootstrapTrees
+8_full_IQ-TREE,Highlevel,10,full_IQ-TREE
+7_full_RAxML,Highlevel,0,full_RAxML
+9_Filter: indv_0_sites_50_loci_70,Highlevel,3,indv_0_sites_50_loci_70
+14_Filter: indv_0_sites_90_loci_50,Highlevel,8,indv_0_sites_90_loci_50
+10_Filter: indv_25_sites_90_loci_70,Highlevel,4,indv_25_sites_90_loci_70
+12_Filter: indv_50_sites_50_loci_50,Highlevel,1,indv_50_sites_50_loci_50
+13_Filter: indv_50_sites_50_loci_70,Highlevel,2,indv_50_sites_50_loci_70
+11_Filter: indv_50_sites_90_loci_90,Highlevel,5,indv_50_sites_90_loci_90
+1_OptimalTrees,Highlevel,1,OptimalTrees
+4_OptimalTrees+FamBackbone2v1,Highlevel,1,OptimalTrees+FamBackbone2v1
+3_OptimalTrees+FamilyBackbone4v1,Highlevel,1,OptimalTrees+FamilyBackbone4v1
+6_OptimalTrees+GenusBackbone2v1,Highlevel,1,OptimalTrees+GenusBackbone2v1
+5_OptimalTrees+GenusBackbone4v1,Highlevel,1,OptimalTrees+GenusBackbone4v1
+17_PublishedTrees+Jetz+BigBird,Highlevel,19,PublishedTrees+Jetz+BigBird
+15_PublishedTrees+Jetz+BigBird+Familybackbone,Highlevel,0,PublishedTrees+Jetz+BigBird+Familybackbone
+16_PublishedTrees+Jetz+BigBird+Genusbackbone,Highlevel,1,PublishedTrees+Jetz+BigBird+Genusbackbone
