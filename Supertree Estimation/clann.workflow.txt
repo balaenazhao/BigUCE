@@ -1,0 +1,4 @@
+exe source_trees.tre
+set criterion=mrp
+hs analysis=parsimony swap=tbr nreps=10 savetrees=trees.txt
+quit
