@@ -6,6 +6,8 @@ Code used in the study
 ## **Authors**
 Min Zhao, Gregory Thom, Brant C. Faircloth, Michael J. Andersen, F. Keith Barker, Brett W. Benz, Michael J. Braun, Gustavo A. Bravo, Robb T. Brumfield, R. Terry Chesser, Elizabeth P. Derryberry, Travis C. Glenn, Michael G. Harvey, Peter A. Hosner, Tyler S. Imfeld, Leo Joseph, Joseph D. Manthey, John E. McCormack, Jenna M. McCullough, Robert G. Moyle, Carl H. Oliveros, Noor D. White Carreiro, Kevin Winker, Daniel J. Field, Daniel T. Ksepka, Edward L. Braun, Rebecca T. Kimball, Brian Tilston Smith
 
+## **Supertree Estimation**
+The supertree approach and the divide-and-conquer approach both included a supertree estimation component via matrix representation with parsimony (MRP). We provided the scripts to build the MRP tree matrices and the source trees for various supertree analyses.
 
 ## **Assess Clade Monophyly**
 We evaluated clade monophyly for pre-defined groups (e.g., superordinal clades, orders, families and genera) using the AssessMonophyly function in R package **MonoPhy** (Schwery and O’Meara 2016). Tutorial of MonoPhy can be found at https://rdrr.io/cran/MonoPhy/man/AssessMonophyly.html. We generally assumed that a tree estimation method was more reliable when it recovered a larger number of these groups as monophyletic.
