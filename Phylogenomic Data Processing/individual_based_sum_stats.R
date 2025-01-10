@@ -7,7 +7,6 @@ library(parallel)
 library(MASS)
 library(dplyr)
 #####Summary Stats per individual
-setwd("/home/gthomesilva/nas4/Avian_Tree_of_Life/7_filtering_data_final/Final_datasets/All_datasets")
 #loading main table
 main <- read.csv("../../all_genomes_IOC.csv")
 main <- main[,c(2,6,8,9)] #sample, family, name, tip
