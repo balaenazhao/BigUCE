@@ -2,8 +2,6 @@ library("FactoMineR")
 library("factoextra")
 library("corrplot")
 
-setwd("~/Dropbox/Avian_Tree_of_Life/7_filtering_data/Final_filtering/All_datasets/")
-
 files <- list.files()
 
 for (f in files) {
