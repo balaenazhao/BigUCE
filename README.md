@@ -6,6 +6,9 @@ Code used in the study
 ## **Authors**
 Min Zhao, Gregory Thom, Brant C. Faircloth, Michael J. Andersen, F. Keith Barker, Brett W. Benz, Michael J. Braun, Gustavo A. Bravo, Robb T. Brumfield, R. Terry Chesser, Elizabeth P. Derryberry, Travis C. Glenn, Michael G. Harvey, Peter A. Hosner, Tyler S. Imfeld, Leo Joseph, Joseph D. Manthey, John E. McCormack, Jenna M. McCullough, Robert G. Moyle, Carl H. Oliveros, Noor D. White Carreiro, Kevin Winker, Daniel J. Field, Daniel T. Ksepka, Edward L. Braun, Rebecca T. Kimball, Brian Tilston Smith
 
+## **Phylogenomic Data Processing**
+Scripts for performing the three-step filtering process to obtain 27 filtered datasets. We also calculated individual-based summary statistics to evaluate data heterogeneity across datasets from different studies.
+
 ## **Supertree Estimation**
 The supertree approach and the divide-and-conquer approach both included a supertree estimation component via matrix representation with parsimony (MRP). We provided the scripts to build the MRP tree matrices and the source trees for various supertree analyses.
 
